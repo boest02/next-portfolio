@@ -1,14 +1,43 @@
+/* --- Light Theme (Default) --- */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Main Background & Surface Colors */
+  --background: linear-gradient(to bottom, #F0F4E8, #E2E8D2); /* A diffused light olive green gradient */
+  --foreground: #ffffff;        /* Pure white for card backgrounds or containers */
+  --nav-background: linear-gradient(to right, #ffffff, #f0f0f0);    /* A clean white to subtle light gray gradient for the nav bar */
+
+  /* Text Colors */
+  --text-primary: #1a1a1a;      /* Deep charcoal for primary text, providing high contrast */
+  --text-secondary: #6b7280;    /* A subtle gray for secondary text, like descriptions or metadata */
+
+  /* Accent & Interactive Colors */
+  --accent-primary: #22c55e;      /* A professional green for a fresh accent */
+  --accent-primary-hover: #16a34a;/* A slightly darker green for hover states */
+
+  /* Borders & Dividers */
+  --border: #e5e7eb;            /* A light gray for subtle borders and lines */
 }
 
+/* --- Dark Theme --- */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    /* Main Background & Surface Colors */
+    --background: linear-gradient(to bottom, #0a1c12, #102b1c); /* A deep forest green gradient for the page background */
+    --foreground: #1e2521;      /* A slightly lighter, desaturated dark color for card backgrounds */
+    --nav-background: linear-gradient(to right, #2b2b2b, #383838);  /* A dark gray to a slightly lighter gray gradient for the nav bar */
+
+    /* Text Colors */
+    --text-primary: #e5e7eb;    /* A light gray for primary text */
+    --text-secondary: #9ca3af;  /* A subtle, lighter gray for secondary text */
+
+    /* Accent & Interactive Colors */
+    --accent-primary: #4ade80;      /* A light green that stands out on a dark background */
+    --accent-primary-hover: #22c55e;/* A darker green for hover states */
+
+    /* Borders & Dividers */
+    --border: #4b5563;          /* A dark gray for subtle borders and lines */
   }
 }
+
 
 html,
 body {
@@ -17,9 +46,8 @@ body {
 }
 
 body {
-  color: var(--foreground);
+  color: var(--text-primary);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
