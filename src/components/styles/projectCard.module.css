@@ -1,0 +1,125 @@
+/*
+  This is the converted SCSS from the Svelte component.
+  It's a CSS module to ensure the styles are scoped to the component.
+*/
+
+.outlineWrapper {
+  display: grid;
+  flex-direction: column;
+  flex-basis: 35%;
+  min-width: 420px;
+  gap: 10px;
+  margin: 10px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 50px 20px 30px;
+  position: relative;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2),
+    -1px -1px 4px rgba(255, 255, 255, 0.3);
+
+  button {
+    width: 30%;
+    font-size: 1rem;
+    border-color: var(--border);
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+
+    &:hover {
+      background-color: var(--accent-primary-hover);
+    }
+  }
+
+  a {
+    text-decoration: underline;
+  }
+
+  .name {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+
+  .type {
+    font-size: 1rem;
+    font-weight: bold;
+    color: var(--accent-primary);
+    position: absolute;
+    top: 20px;
+    right: 25px;
+  }
+
+  .link {
+    a,
+    a:visited {
+      margin: 10px;
+      font-weight: 600;
+      font-size: 0.8rem;
+      font-style: italic;
+      color: var(--accent-primary);
+    }
+  }
+
+  .description {
+    font-size: 0.95rem;
+    margin: 10px;
+  }
+
+  .tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-block: 10px;
+
+    .item {
+      text-align: center;
+      text-transform: lowercase;
+      font-family: "Courier New", Courier, monospace;
+      width: fit-content;
+      min-width: 70px;
+      height: fit-content;
+      font-size: 1rem;
+      background-color: var(--nav-background);
+      color: var(--accent-primary);
+      font-weight: 700;
+      padding: 10px 20px;
+      border: 1px solid var(--accent-secondary);
+      border-radius: 10px;
+      box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2),
+        -1px -1px 4px rgba(255, 255, 255, 0.3);
+    }
+    .two {
+      padding: 5px 10px;
+      font-size: .9rem;
+    }
+  }
+
+  .bullets {
+    .title {
+      font-weight: 600;
+    }
+    ul {
+      margin-left: 25px;
+    }
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .outlineWrapper {
+    min-width: 98%;
+    padding: 50px 15px 20px;
+    font-size: 1rem;
+
+    .name {
+      font-size: 1rem;
+    }
+
+    .tech {
+      width: 100%;
+
+      .item {
+        font-size: 0.8rem;
+        padding: 7px 10px;
+      }
+    }
+  }
+}

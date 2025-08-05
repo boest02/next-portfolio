@@ -1,0 +1,93 @@
+/*
+  This is the converted SCSS from the Svelte component.
+  It's a CSS module to ensure the styles are scoped to the component.
+*/
+
+.outlineWrapper {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 30px;
+    width: 100%;   
+}
+
+.myPhoto {
+    width: 120px;
+    height: 125px;
+    min-width: 95px;
+    min-height: 95px;
+    border-radius: 25%;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
+    background-image: var(--profile-pic, url("https://placehold.co/120x125/252525/e0e0e0?text=Profile")); /* Using a placeholder image */
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #ccc;
+}
+
+.outlineWrapper section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.outlineWrapper h1 {
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.outlineWrapper h2 {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.infoSection {
+    justify-self: flex-end;
+}
+
+.infoSection ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    gap: 5px 10px;
+    padding: 0;
+}
+
+.infoSection li {
+    font-size: 95%;
+}
+
+.infoSection a {
+    color: var(--text-primary);
+    text-decoration: none;
+}
+
+.infoSection a i {
+    margin-right: 5px;
+}
+
+@media only screen and (max-width: 480px) {
+    .outlineWrapper {
+        width: 95%;
+    }
+
+    .myPhoto {
+        display: none;
+    }
+
+    .outlineWrapper section {
+        flex-direction: column;
+        gap: 10px;
+        min-width: unset;
+        width: 95%;
+        margin: 10px auto;
+    }
+
+    .infoSection {
+        width: 95%;
+        min-width: unset;
+    }
+}

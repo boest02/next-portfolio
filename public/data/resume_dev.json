@@ -1,0 +1,590 @@
+{
+    "basics": {
+        "name": "Stephen L Boettcher",
+        "label": "Front-End Focused Full-Stack Developer",
+        "image": "/data/Me.JPG",
+        "email": "boest02@gmail.com",
+        "phone": "516-220-4640",
+        "portfolio_url": "sboettcher.com",
+        "linkedin_url": "linkedin.com/in/stephenboettcher",
+        "github_url": "github.com/boest02",
+        "res_summary": "Versatile and highly accomplished web developer with 10+ years of experience delivering scalable, high-performance applications across the stack. Specializes in modern front-end frameworks like Svelte and React, while also experienced in backend integration, component-based architecture, and performance optimization. Led the successful redesign of the PCH Weekly Prize site, resulting in a 20% boost in organic traffic. Known for technical leadership, thoughtful UX implementation, and the ability to translate business goals into efficient, maintainable code solutions.",
+        "home_summary": [
+            "Welcome! This portfolio is a work in progress, evolving as I refine and expand my work. Built with Svelte, SASS, and a touch of Tailwind CSS, it's hosted on Netlify. I've also added a Blog section, where I share insights and experiences using markdown-based posts.",
+            "I'm a seasoned web technology leader with a deep foundation in front-end development, specializing in crafting dynamic, accessible, and user-friendly web experiences using HTML, CSS, and modern JavaScript frameworks like Svelte, React, and Vue. My expertise also spans into back-end technologies such as PHP, Node.js, and Next.js, enabling me to build seamless full-stack solutions.",
+            "Beyond the code, I bring a robust background in technical leadership, project management, and business analysis. I've honed skills in orchestrating cross-functional teams, serving as a Scrum Master to streamline agile delivery, and effectively bridging the gap between complex business needs and impactful technical solutions. My journey in technology started with C programming, developing backup software for Windows, which sharpened my problem-solving skills and attention to detail, qualities that continue to shape my holistic approach to development and project oversight today.",
+            "I thrive on challenges, continuously learning and adapting to the ever-evolving landscape of technology. If you're looking for a professional passionate about performance, usability, and innovation, who can also lead teams and drive projects from concept to completion, let’s connect!"
+        ],
+        "summary": "",
+        "location": {
+            "city": "Floral Park",
+            "countryCode": "US",
+            "region": "New York",
+            "postalCode": "11001"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "boest02",
+                "url": "https://www.linkedin.com/in/stephenboettcher/",
+                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7PAYCRc3WD7kGgYDf1ZyIBHCIPLOD4v1wpg&s"
+            },
+            {
+                "network": "GitHub",
+                "username": "boest02",
+                "url": "https://github.com/boest02",
+                "icon": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+            },
+            {
+                "network": "CodePen",
+                "username": "boest02",
+                "url": "https://codepen.io/boest02",
+                "icon": "https://cdn.iconscout.com/icon/free/png-256/free-codepen-icon-download-in-svg-png-gif-file-formats--behance-logo-delicious-social-media-technology-development-pack-user-interface-icons-6700108.png?f=webp&w=256"
+            },
+            {
+                "network": "JSFiddle",
+                "username": "boest02",
+                "url": "https://jsfiddle.net/u/boest02/fiddles/",
+                "icon": "https://pbs.twimg.com/profile_images/1832018871382872064/wxvfa5pU_400x400.jpg"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Publishers Clearing House",
+            "position": "Lead Front-End Developer",
+            "url": "https://info.pch.com/",
+            "startDate": "2019-08-01",
+            "endDate": "2025-04-24",
+            "summary": "Leading front-end development, I focused on guiding engineers and upholding best practices in code quality and performance. My role involved translating complex UI/UX designs into scalable, modular, and reusable solutions, fostering a collaborative environment, and driving architectural excellence to promote team growth.",
+            "highlights": [
+                "Architected and spearheaded the complete redesign of the PCH Weekly Prize website, resulting in a 20% increase in organic traffic and significantly enhancing user engagement through optimized UX and performance metrics.",
+                "Engineered a fully responsive and portable navigation system, subsequently adopted by 15+ PCH properties to improve user journey consistency and boost site interaction rates by over 25% within three months.",
+                "Developed and deployed a reusable 'tooltip' component that improved on-page communication and generated over 1,500 positive user feedback responses within the first month post-launch.",
+                "Led accessibility initiatives, conducting thorough audits on 30+ web pages to ensure WCAG compliance and deliver inclusive, highly engaging digital experiences.",
+                "Provided technical leadership and mentorship to junior and mid-level engineers through bi-weekly 1:1 sessions, improving team coding efficiency and fostering collaborative development practices."
+            ],
+            "resume": true
+        },
+        {
+            "name": "Publishers Clearing House",
+            "position": "Front-End Developer",
+            "url": "https://info.pch.com/",
+            "startDate": "2018-08-01",
+            "endDate": "2019-07-30",
+            "summary": "My work as a Front-End Developer centered on building and integrating reusable components with precision, maintaining a robust Storybook library, and ensuring functionality through comprehensive testing. I collaborated closely with designers and developers to craft seamless, scalable, and high-performance front-end experiences.",
+            "highlights": [
+                "Engineered and deployed a flexible communication module, enabling targeted user messaging and significantly enhancing customer interaction.",
+                "Developed innovative game mechanics that directly addressed user pain points, leading to a 20% increase in user engagement metrics.",
+                "Designed and implemented a suite of modular, reusable components that streamlined development by 15 hours per project through code standardization and elimination of redundancy.",
+                "Executed comprehensive web performance optimizations, reducing page load times by 25% via strategic code refactoring, asset optimization, and robust caching.",
+                "Pioneered and integrated unit testing strategies into the CI/CD pipeline, enhancing code stability across 10+ projects and reducing bug-related downtime by ~35 hours/month.",
+                "Collaborated closely with QA teams to establish rigorous end-to-end testing processes, ensuring the release of defect-free features.",
+                "Integrated complex third-party APIs to extend application functionality, enabling real-time updates and dynamic content rendering."
+            ],
+            "resume": true
+        },
+        {
+            "name": "Publishers Clearing House",
+            "position": "Senior Business Analyst / Scrum Master",
+            "url": "https://info.pch.com/",
+            "startDate": "2013-11-01",
+            "endDate": "2018-07-30",
+            "summary": "In my role as a Senior Business Analyst / Scrum Master, I effectively bridged the gap between business needs and technical execution, translating requirements into actionable user stories and specifications. I facilitated all Agile ceremonies, leading daily standups, grooming, and sizing to ensure team alignment, efficient workflow, and timely delivery through active impediment removal.",
+            "highlights": [
+                "Leveraged strong understanding of SDLC and technical requirements to facilitate communication between development teams and stakeholders, streamlining project delivery for web-based systems.",
+                "Managed Agile Scrum ceremonies and release schedules, ensuring clarity on technical deliverables and fostering team efficiency.",
+                "Coordinated technical integrations with legacy systems and third-party vendors, ensuring seamless interoperability and operational efficiency."
+            ],
+            "resume": true
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Director / Senior Manager, Software Development - ARCserve",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "2005-05-01",
+            "endDate": "2013-05-30",
+            "summary": "My leadership as Director of ARCserve Software Development involved setting the technical direction for global development teams, ensuring strategic alignment with business goals. I managed local and remote engineers worldwide, overseeing software architecture, driving innovation, and optimizing development processes to enhance ARCserve’s enterprise backup and storage solutions.",
+            "highlights": [
+                "Led and mentored engineering teams across global locations, championing initiatives like a code peer review process that significantly improved code quality and consistency across large-scale software projects.",
+                "Drove technical strategy and streamlined development processes, overseeing the design and implementation of complex software solutions with a focus on best practices and effective problem-solving.",
+                "Facilitated technical training for external teams, bridging communication gaps between engineering and sales/support to address critical product concerns."
+            ],
+            "resume": true
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Senior Software Engineer (Team Lead / Device Development)",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "2003-04-01",
+            "endDate": "2005-04-30",
+            "summary": "Serving as a Senior Software Engineer and Team Lead, I blended hands-on development with direct management of local and remote engineers. I collaborated closely with stakeholders, translating business needs into technical solutions, guiding device integration, optimizing performance, and ensuring efficient delivery for ARCserve’s backup and storage solutions.",
+            "highlights": [
+                "Engineered high-performance Win32 C solutions, resolving the top three causes of application crashes and significantly enhancing system stability."
+            ],
+            "resume": true
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Software Engineer",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1999-12-01",
+            "endDate": "2003-05-01",
+            "summary": "In this Software Engineer role, I developed core features for ARCserve’s backup and storage solutions, with a focus on data movement and device integration. I implemented robust C solutions for Windows architecture, including SCSI code for tape drives and libraries, and contributed to project planning and scoping within a waterfall methodology.",
+            "highlights": [
+                "Developed new features for ARCserve device support, including automated SAN device sharing, tape drive encryption, and cluster failover handling.",
+                "Maintained and managed the SAN lab, ensuring optimal development and testing environments for core features.",
+                "Supported the device certification team, accelerating hardware integration by configuring new systems and ensuring software compatibility.",
+                "Implemented fixes and improvements to expand device compatibility within the ARCserve ecosystem, enhancing product range."
+            ],
+            "resume": false
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Maintenance Software Engineer",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1999-05-01",
+            "endDate": "1999-12-01",
+            "summary": "My role as a Maintenance Software Engineer involved providing critical technical support for ARCserve, diagnosing complex software and hardware issues. I collaborated closely with the development team to implement and release patches, ensuring seamless integration into the production codebase and improving system stability and customer experience.",
+            "highlights": [
+                "Resolved escalated technical issues for customers, providing deep investigation and implementing code changes to stabilize production.",
+                "Collaborated directly with customers to diagnose and troubleshoot complex technical issues, improving resolution efficiency.",
+                "Developed and published critical software fixes to the company website, enabling broader self-service and reducing incoming support volume.",
+                "Ensured comprehensive documentation of resolved issues, contributing to a robust knowledge base and preventing future recurrences."
+            ],
+            "resume": false
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Senior Technical Support Representative",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1997-04-01",
+            "endDate": "1999-05-01",
+            "summary": "As a Senior Technical Support Representative, I focused on diagnosing and resolving complex technical issues for customers online. I developed a comprehensive library of technical responses to streamline support and proactively guided users through solutions, significantly improving overall support efficiency and customer satisfaction.",
+            "highlights": [
+                "Provided specialized technical product support online via AOL and CompuServe, addressing complex customer inquiries.",
+                "Mentored junior support representatives, improving team efficiency and knowledge transfer through guidance and assistance.",
+                "Updated and maintained a comprehensive internal solutions database, enhancing team reference capabilities and expediting issue resolution.",
+                "Ensured the accuracy and timeliness of support resources, directly contributing to improved issue resolution efficiency."
+            ],
+            "resume": false
+        },
+        {
+            "name": "Computer Associates / Cheyenne Software",
+            "position": "Technical Support Representative",
+            "url": "https://en.wikipedia.org/wiki/Arcserve",
+            "startDate": "1996-02-01",
+            "endDate": "1997-04-01",
+            "summary": "In my Technical Support Representative role, I provided essential phone-based support, assisting customers with troubleshooting and resolving product issues. I guided users through solutions to ensure high customer satisfaction and seamlessly escalated complex cases to higher-level support for timely resolution.",
+            "highlights": [
+                "Provided phone-based technical support for ARCserve products across Windows NT and Novell Netware environments, assisting customers with troubleshooting and solutions."
+            ],
+            "resume": false
+        }
+    ],
+    "education": [
+        {
+            "institution": "Iona College",
+            "url": "https://www.iona.edu/",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "location": "New Rochelle, NY",
+            "startDate": "1989-09-01",
+            "endDate": "1991-06-01"
+        },
+        {
+            "institution": "St. John's University",
+            "url": "https://www.stjohns.edu/",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "location": "New York, NY",
+            "startDate": "1987-09-01",
+            "endDate": "1989-06-01"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Core Front-End",
+            "level": "Expert",
+            "keywords": [
+                "HTML5",
+                "CSS3",
+                "Tailwind CSS",
+                "SASS",
+                "JavaScript (ES6+)",
+                "TypeScript",
+                "Responsive Design",
+                "Accessibility (WCAG)",
+                "Performance Optimization"
+            ]
+        },
+        {
+            "name": "Frameworks & Libraries",
+            "level": "Advanced",
+            "keywords": [
+                "Svelte",
+                "React",
+                "Vue.js",
+                "Next.js",
+                "Astro",
+                "Lit"
+            ]
+        },
+        {
+            "name": "Back-End & APIs",
+            "level": "Proficient",
+            "keywords": [
+                "Node.js",
+                "Express",
+                "PHP",
+                ".NET",
+                "MySQL",
+                "RESTful APIs"
+            ]
+        },
+        {
+            "name": "Build & Tooling",
+            "level": "Advanced",
+            "keywords": [
+                "Vite",
+                "Webpack",
+                "npm",
+                "Yarn",
+                "Docker",
+                "Git"
+            ]
+        },
+        {
+            "name": "Testing & Quality",
+            "level": "Proficient",
+            "keywords": [
+                "Jest",
+                "Mocha",
+                "Chai",
+                "Vitest",
+                "Storybook",
+                "CI/CD Integration"
+            ]
+        },
+        {
+            "name": "Workflow & Process",
+            "level": "Advanced",
+            "keywords": [
+                "Agile (Scrum, Kanban)",
+                "SDLC",
+                "Jira & Confluence"
+            ]
+        },
+        {
+            "name": "Design & Collaboration",
+            "level": "Proficient",
+            "keywords": [
+                "Figma",
+                "Photoshop"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "Blog for a Poet",
+            "type": "Side Project: Website/Blog",
+            "tech": [
+                "Astro",
+                "Markdown",
+                "Static Site Generator"
+            ],
+            "images": [],
+            "description": "Worked with a poet to create a blog that would allow her to post her poetry and share it with the world.  The site was built using Next.js and Astro, allowing for a fast and responsive experience.  The site is hosted on Netlify and uses markdown files for the blog posts.",
+            "highlights": [
+                "Static site generator using Astro to create a fast and responsive blog.",
+                "Used markdown files for the blog posts, allowing for easy editing and management of content.",
+                "The site is hosted on Netlify, allowing for easy deployment and management of the site."
+            ],
+            "url": ""
+        },
+        {
+            "name": "Custom Bingo Card Generator",
+            "type": "Side Project: Website",
+            "tech": [
+                "Next.js",
+                "React",
+                "Typescript",
+                "Tailwind CSS",
+                "HTML5",
+                "app router",
+                "Gemini API"
+            ],
+            "images": [],
+            "description": "This project was developed through an interactive collaboration with Gemini AI. By iteratively prompting and refining ideas, I was able to define the core concept, refine the technical description, and identify key features, ultimately bringing the Custom Bingo Card Generator to life.",
+            "highlights": [
+                "AI-Powered Customization: Leverages the Gemini AI API to intelligently generate unique bingo card lists based on user-provided topics.",
+                "Canned topics also available, built using Gemini AI to generate a list of topics that can be used to create bingo cards and stored ina JSON file.",
+                "Dynamic Content Generation: Offers both a selection of pre-defined static topics from a JSON file and dynamic, on-demand content creation.",
+                "Modern & Responsive Stack: Built with Next.js and React, ensuring a fast, responsive, and seamless user experience across devices.",
+                "Intuitive User Experience: Designed for effortless creation of personalized bingo games for various purposes."
+            ],
+            "url": "https://github.com/boest02/bingo-cards"
+        },
+        {
+            "name": "PCH Surveys",
+            "type": "Work Project: Website",
+            "tech": [
+                "vue.js",
+                "storybook",
+                "laravel",
+                "php",
+                "blade"
+            ],
+            "images": [],
+            "description": "PCH was developing a site to collect user information through surveys. I wasn’t involved from the start, but I was brought in to help get the project back on track. The frontend was being handled by two junior developers who were receiving tasks from the backend team but struggling to meet deadlines. After assessing the challenges, I worked closely with them to improve their workflow. We implemented daily touch-point meetings to address roadblocks in real-time and introduced structured code reviews to ensure their work was QA-ready. These changes helped streamline development, and we successfully delivered the site on time with high quality.",
+            "highlights": [
+                "Through pair programming and design discussions we were able to workout a plan on ho to deliver the outstanding features that were needed to get the site out the door.",
+                "Using Storybook I was able to setup their components so they could mock the data sent to the components and see how they would look without a dependency on the backend team."
+            ],
+            "url": ""
+        },
+        {
+            "name": "Replace PCH's Info site...",
+            "type": "Work Project: Website",
+            "tech": [
+                "vue.js",
+                "nuxt.js",
+                "postcss",
+                "tailwindcss",
+                "eslint"
+            ],
+            "images": [],
+            "description": "The Publishers Clearing House 'Info' site was previously hosted on WordPress, but the costs outweighed its needs and update frequency. I was part of a team tasked with replacing it with a more cost-effective, maintainable static site. We built the new site using Nuxt.js, leveraging Vue.js to generate static HTML and CSS. Tailwind CSS was used for styling, ensuring a responsive design. The project was integrated into a CI/CD pipeline, automating builds and deployments to a staging environment for review before going live.",
+            "highlights": [
+                "Developed a static site using Nuxt.js, Vue.js, and Tailwind CSS.",
+                "Created a command line utility to create the boilerplate template for a Vue.js page.",
+                "Used GitLab Issues to manage the project, we created an issue for each of the pages we needed to convert from the old site and used GitLab to help generate the branches and track through the Issues tab.",
+                "The site is live here: <a target='_blank' href='https://info.pch.com'>https://info.pch.com</a>."
+            ],
+            "url": ""
+        },
+        {
+            "name": "Excel spreadsheet to JSON converter",
+            "type": "Work Project: Internal Tool",
+            "tech": [
+                "javascript",
+                "json",
+                "npm package",
+                "node.js"
+            ],
+            "images": [],
+            "description": "We had an internal site that let users enter a code that would be tied to an offer and it was an older system that they would receive a spreadsheet by email and then manually copy the new codes into the javascript file for this site.  So it was labor intensive and had to be done by a developer to not cause any issue if the user accidentally broke the javascript.  I create a command line utility they could usee to specify the  incoming excel file and this tool would parse the excel file and output a JSON file that could be used in the site.  This saved them a lot of time and effort and they were able to do it themselves.",
+            "highlights": [
+                "Found an NPM package that would help me load the excel file in a format that I could traverse like an object and from that pull out the data I needed and write to the JSON file",
+                "The command line was simple to use and would look something like this: 'node build/excelConverter.js -e 'codes/in/Spreadsheet.xlsx' -o 'codes/out/codes_out.json'"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Fake-le Game",
+            "type": "Learning: React Project",
+            "tech": [
+                "react",
+                "typescript",
+                "html5",
+                "javascript",
+                "sass"
+            ],
+            "images": [],
+            "description": "This was a learning project I took an after seeing a video on a simulated React interview where they asked the interviewee to create a version of the popular game Wordle, built as a React app.  I created a React/Typescript project and built the game you can try <a target='_blank'  href='https://fake-le.netlify.app/'>here</a>. ",
+            "highlights": [
+                "Used an API that I found to get the words at https://random-word-api.herokuapp.com/word",
+                "Implemented features from the game as I went, still some items I'm looking to add."
+            ],
+            "url": "https://github.com/boest02/fake-le"
+        },
+        {
+            "name": "Stepped Registration",
+            "type": "Work Project: Website",
+            "tech": [
+                "svelte",
+                "typescript",
+                "sass",
+                "mocha",
+                "chai",
+                "markdown"
+            ],
+            "images": [
+                {
+                    "alt": "Registration Form lightbox",
+                    "url": "/images/screenshots/mpo-elevate-reg-form.png"
+                },
+                {
+                    "alt": "Desktop Registration page",
+                    "url": "/images/screenshots/mpo-reg-page.png"
+                },
+                {
+                    "alt": "Mobile Registration page (responsive)",
+                    "url": "/images/screenshots/mpo-reg-page-mobile.png"
+                }
+            ],
+            "description": "Developed an innovative registration system that transformed the traditional form-filling experience into a conversational journey. This Single Page Application utilized a component-based architecture to guide users through a natural, step-by-step account creation process. The system transformed standard data collection into an engaging, dialogue-like interaction that enhanced user experience while gathering necessary registration information.",
+            "highlights": [
+                "Innovated a versatile component library initially focused on user registration that evolved into a comprehensive system for creating diverse stepped user experiences across multiple applications",
+                "Engineered a robust backend integration system that dynamically generates page layouts and component configurations through structured JSON data, enabling flexible content management",
+                "Transformed static JSON configurations into a dynamic system supporting personalized user experiences based on user segments, significantly improving engagement and conversion rates",
+                "Developed fully tested, reusable components with comprehensive unit tests using Mocha and Chai, ensuring reliability and maintainability across the system",
+                "We setup a wiki that we could link to the Admin for reference as need and made this part of every new component we built.  This helped expand my markdown writing skills."
+            ],
+            "url": ""
+        },
+        {
+            "name": "Universal Navigation (8 sites)",
+            "type": "Work Project: Component",
+            "start": "03-2024",
+            "end": "05-2024",
+            "tech": [
+                "javascript",
+                "sass",
+                "npm package",
+                "Blade",
+                "laravel",
+                "composer package",
+                "php"
+            ],
+            "images": [],
+            "description": "Led the re-design of PCH's Universal Navigation bar that is used on 8 of the websites in the PCH umbrella. The navigation bar has multiple interactive areas so there was significant HTML markup, CSS styling and event driven Javascript.  We were given designs in Figma and we had multiple meetings to walkthrough how users will integrate and how web admins might configure, leading to us creating and sizing stories for the dev work needed to build it.",
+            "highlights": [
+                "We built a test site where we could stand up the Uninav on it's own to develop it and work on the different configurations to see how they rendered and functioned",
+                "Once it was functional and deployable we integrated it with one site at a time, addressing any conflicts or issues that we observed running it on that site"
+            ],
+            "url": ""
+        },
+        {
+            "name": "PCH Weekly Grand Prize Website",
+            "type": "Work Project: Website",
+            "start": "08-2023",
+            "end": "03-2024",
+            "tech": [
+                "blade",
+                "laravel",
+                "php",
+                "es6 classes",
+                "sass"
+            ],
+            "images": [
+                {
+                    "alt": "PCH Weekly Grand Prize page",
+                    "url": "/images/screenshots/rewards-pch-weekly-grand-prize.png"
+                },
+                {
+                    "alt": "PCH Weekly Grand Prize page (orig figma)",
+                    "url": "/images/screenshots/Weekly-Grand-Prize-Figma.png"
+                },
+                {
+                    "alt": "The Prize Page",
+                    "url": "/images/screenshots/rewards weekly-grand-prize_prize.png"
+                }
+            ],
+            "description": "Led the development of PCH's Weekly Grand Prize website, a strategic initiative to expand prize engagement to both registered and non-registered users. Implemented a dynamic prize showcase system that integrates with our internal Prize Tracking System to display current weekly offerings. Engineered a seamless user flow that intelligently handles both registered and anonymous users, directing new users through a streamlined registration process before returning them to claim their prize entry. Leveraged our existing component library to ensure consistency while optimizing for the unique requirements of prize promotion and user acquisition. The site successfully increased user engagement and registration rates while maintaining high performance and accessibility standards.",
+            "highlights": [
+                "Engineered a responsive, mobile-first design using Laravel components, vanilla JavaScript, and CSS, ensuring optimal user experience across all devices and screen sizes",
+                "Implemented comprehensive SEO optimizations including semantic HTML structure, meta tags, and structured data markup to improve search engine visibility",
+                "Achieved WCAG 2.1 AA compliance through careful attention to accessibility features including ARIA labels, keyboard navigation, screen reader compatibility, and sufficient color contrast ratios",
+                "Developed custom JavaScript modules for prize entry validation and user flow management without relying on heavy frameworks, resulting in faster page load times",
+                "Introduced a modular CSS architecture using BEM methodology and CSS custom properties to maintain consistent styling while enabling easy theme customization"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Realtime Ad Module System",
+            "type": "Work Project: Component",
+            "tech": [
+                "javascript",
+                "sass",
+                "blade components",
+                "iframe",
+                "kevel",
+                "rokt",
+                "adspostx"
+            ],
+            "images": [
+                {
+                    "alt": "In-page placement with iframe",
+                    "url": "/images/screenshots/in-page-placement.png"
+                },
+                {
+                    "alt": "Lightbox with iframe",
+                    "url": "/images/screenshots/light-box-placement.png"
+                },
+                {
+                    "alt": "Lightbox with iframe adjusts to height",
+                    "url": "/images/screenshots/light-box-smaller-placement.png"
+                },
+                {
+                    "alt": "Iframe Service Diagram",
+                    "url": "/images/screenshots/iFrame Service Diagram.png"
+                }
+            ],
+            "description": "Developed a sophisticated real-time ad delivery system that seamlessly integrates both third-party and internal advertisements without requiring page reloads. The system interfaces with Kevel (our internal ad server) to dynamically serve targeted content ranging from simple markup and images to complex interactive ads from providers like Rokt and AdsPostx. Built a robust architecture that efficiently queries the ad server and renders appropriate content within secure iframes, ensuring optimal performance and user experience while maintaining site stability.",
+            "highlights": [
+                "Engineered a responsive iframe service that dynamically monitors ad content dimensions and communicates with the parent page to seamlessly adjust layouts, preventing content jumps and ensuring smooth user experience",
+                "Developed a comprehensive JavaScript tracking library that captures and reports critical ad metrics including view-ability, engagement time, and click-through rates to optimize ad performance and ROI",
+                "Implemented an intelligent caching system that pre-loads upcoming ads to minimize latency and provide instant content transitions between ad displays"
+            ],
+            "url": ""
+        },
+        {
+            "name": "GA Event Tracking Service",
+            "type": "Work Project: Component",
+            "tech": [
+                "es6 classes",
+                "vite",
+                "vitest",
+                "ci/cd"
+            ],
+            "images": [],
+            "description": "Developed a robust Google Analytics Event Tracking Service that simplifies click event monitoring across web applications. The service utilizes a data attribute-based system to automatically detect and track user interactions, transforming specified HTML elements into trackable components. It seamlessly captures and transmits event data to Google Analytics, requiring minimal setup while providing comprehensive tracking capabilities. Built with modern tooling including Vite and Vitest, the service is thoroughly tested and optimized for easy integration into any JavaScript project.",
+            "highlights": [
+                "Implemented an intelligent redirect delay system that ensures accurate event tracking by waiting for analytics data transmission before page navigation",
+                "Engineered a sophisticated first-click tracking mechanism to prevent duplicate event submissions and maintain data accuracy",
+                "Established an automated CI/CD pipeline for seamless package versioning and distribution through NPM, ensuring reliable and consistent updates"
+            ],
+            "url": ""
+        },
+        {
+            "name": "Email Validation Tool",
+            "type": "Work Project: Internal Tool",
+            "tech": [
+                "html",
+                "css",
+                "javascript",
+                "regex"
+            ],
+            "images": [],
+            "description": "Developed an internal tool for the email team to validate email HTML by running it through a series of automated tests. The tool utilized regex patterns to identify positive or negative matches, ensuring email content adhered to required standards. This solution significantly increased the email team's productivity and reduced the risk of sending out broken or non-compliant emails.",
+            "highlights": [
+                "Allowed users to paste in or upload HTML and run it through the tests.",
+                "Added the ability for the Email team to add their own tests to the tool as needed."
+            ],
+            "url": ""
+        },
+        {
+            "name": "Teachers App",
+            "type": "Side Project: Website",
+            "tech": [
+                "blade",
+                "laravel",
+                "php",
+                "html",
+                "javascript",
+                "sass",
+                "mysql"
+            ],
+            "images": [],
+            "description": "Developed a comprehensive teacher's application for assisting in doing student evaluations.  The application allows teachers to create and manage student profiles and evaluations.  It also the teacher to create a bank of student evaluation comments that can be used and personalized for each evaluation.",
+            "highlights": [
+                "Created a student registration portion of the app to add students to the system.",
+                "Created a student evaluation portion of the app to allow teachers to create evaluations for students.",
+                "Created a bank of student evaluation comments that can be used and personalized for each evaluation.",
+                "Added support for drag and drop of banked comments into a student evaluation"
+            ],
+            "url": ""
+        }
+    ]
+}

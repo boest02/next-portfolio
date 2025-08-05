@@ -1,0 +1,267 @@
+{
+    "basics": {
+        "name": "Stephen R Boettcher",
+        "label": "Technical Project Manager",
+        "image": "/src/images/Me.JPG",
+        "email": "boest02@gmail.com",
+        "phone": "516-220-4640",
+        "url": "https://steveb-portfolio.netlify.app/",
+        "res_summary": "Results-driven Technical Project Manager with a robust background in Business Analysis and Software Development, bringing over a decade of experience in delivering end-to-end solutions. Skilled at bridging technical and business requirements to ensure project success, leveraging expertise in Agile methodologies, cross-functional team leadership, and stakeholder communication. Adept at identifying and mitigating risks, optimizing workflows, and ensuring on-time, high-quality deliverables. Passionate about empowering teams, driving innovation, and aligning projects with organizational goals to maximize value and user engagement.",
+        "home_summary": [
+            "Welcome to my portfolio! I am a seasoned Technical Project Manager with a unique blend of experience spanning Business Analysis, Software Development, and project leadership. My career journey has equipped me with the ability to bridge the gap between technical teams and business stakeholders, ensuring seamless communication and alignment. With over a decade of experience, I have successfully delivered complex, high-impact projects that drive value and innovation in dynamic environments.",
+            "Before stepping into project management, I honed my skills as a Software Developer, where I gained a deep technical understanding of coding, system architecture, and development lifecycles. This foundation allows me to effectively collaborate with developers, anticipate challenges, and create realistic timelines. My time as a Business Analyst further enhanced my expertise in understanding client needs, mapping workflows, and translating requirements into actionable plans, ensuring every project is rooted in business goals.",
+            "I am passionate about fostering collaboration and building empowered teams to tackle challenges and deliver exceptional results. Whether it’s implementing Agile practices, mitigating risks, or optimizing processes, I take pride in my ability to create a clear path toward success. Outside of work, I’m continually learning to stay ahead of industry trends and exploring innovative ways to improve project outcomes. Let’s connect and explore how we can create impactful solutions together!"
+        ],
+        "summary": "",
+        "location": {
+            "city": "Floral Park",
+            "countryCode": "US",
+            "region": "New York"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "boest02",
+                "url": "https://www.linkedin.com/in/stephen-boettcher-77051b7/",
+                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7PAYCRc3WD7kGgYDf1ZyIBHCIPLOD4v1wpg&s"
+            },
+            {
+                "network": "GitHub",
+                "username": "boest02",
+                "url": "https://github.com/boest02",
+                "icon": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+            },
+            {
+                "network": "GitLab",
+                "username": "@boest02",
+                "url": "https://gitlab.com/boest02",
+                "icon": "https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png"
+            },
+            {
+                "network": "CodePen",
+                "username": "boest02",
+                "url": "https://codepen.io/boest02",
+                "icon": "https://cdn.iconscout.com/icon/free/png-256/free-codepen-icon-download-in-svg-png-gif-file-formats--behance-logo-delicious-social-media-technology-development-pack-user-interface-icons-6700108.png?f=webp&w=256"
+            },
+            {
+                "network": "JSFiddle",
+                "username": "boest02",
+                "url": "https://jsfiddle.net/u/boest02/fiddles/",
+                "icon": "https://pbs.twimg.com/profile_images/1832018871382872064/wxvfa5pU_400x400.jpg"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "PUBLISHERS CLEARING HOUSE",
+            "position": "Lead Front-End Developer",
+            "url": "https://info.pch.com/",
+            "startDate": "2019-08-01",
+            "endDate": "",
+            "summary": "Description…",
+            "highlights": [
+                "Directed the comprehensive redesign of the PCH Weekly Prize website, achieving a 20% increase in organic traffic and enhancing user engagement, demonstrating the ability to align technical solutions with business goals.",
+                "Led the development of a configurable system for reusable, themed user experiences, improving user retention and satisfaction while streamlining future project scalability.",
+                "Oversaw the engineering of a responsive navigation system across all PCH properties, ensuring platform-wide consistency and enhancing the user journey across devices.",
+                "Coordinated seamless integration of ad placements, third-party components, and CMS functionality, simplifying content management workflows and improving efficiency.",
+                "Advocated for accessibility compliance across projects, ensuring designs and functionality provided an inclusive and user-friendly experience for diverse audiences.",
+                "Mentored junior developers and revived stalled projects, demonstrating strong leadership, team development, and problem-solving skills to deliver key initiatives successfully."
+            ]
+        },
+        {
+            "name": "PUBLISHERS CLEARING HOUSE",
+            "position": "Front-End Developer",
+            "url": "https://info.pch.com/",
+            "startDate": "2018-08-01",
+            "endDate": "2019-07-30",
+            "summary": "Description…",
+            "highlights": [
+                "Spearheaded the development of a customizable communication module, empowering the business to deliver personalized user messages, improving engagement and communication efficiency.",
+                "Led cross-functional efforts to design and implement innovative features that enhanced user engagement in a dynamic gaming environment, aligning technical solutions with business objectives.",
+                "Directed the creation of a user-centric platform, providing an interactive experience for users to play games and win prizes, showcasing the ability to balance user needs with business goals.",
+                "Oversaw the architecture of a new website that dynamically presented external data and articles based on admin-configured categories, ensuring scalability and flexibility in content management.",
+                "Facilitated collaboration among developers, QA, and creative teams in an Agile environment, optimizing workflows and enhancing project delivery timelines.",
+                "Managed feature estimation, implementation, and testing processes, ensuring seamless integration of new functionalities while maintaining high-quality standards across projects."
+            ]
+        },
+        {
+            "name": "PUBLISHERS CLEARING HOUSE",
+            "position": "Technical Project Manager",
+            "url": "https://info.pch.com/",
+            "startDate": "2015-12-01",
+            "endDate": "2018-07-30",
+            "summary": "Description…",
+            "highlights": [
+                "Directed the design and implementation of a web-based Contest Tracking System, streamlining prize tracking, drawing processes, and winner fulfillment.",
+                "Collaborated with stakeholders to gather high-level requirements and translated them into detailed user stories to drive efficient feature development.",
+                "Led integration planning sessions for legacy systems, ensuring seamless interoperability and alignment with project requirements.",
+                "Developed and executed comprehensive project plans, coordinating efforts across database, development, and QA teams to deliver solutions on time and within scope.",
+                "Designed mockups and crafted PowerPoint presentations to clearly communicate proposed solutions and project progress to business stakeholders."
+            ]
+        },
+        {
+            "name": "PUBLISHERS CLEARING HOUSE",
+            "position": "Business Analyst / Scrum Master",
+            "url": "https://info.pch.com/",
+            "startDate": "2013-11-01",
+            "endDate": "2015-11-30",
+            "summary": "Description…",
+            "highlights": [
+                "Coordinated the planning and delivery of multiple cross-site features and the launch of several new websites, ensuring alignment with business goals and timelines.",
+                "Collaborated with business teams to define detailed functionality for website features, including admin configuration options and end-user requirements.",
+                "Facilitated discussions with third-party vendors to gather integration requirements and successfully incorporate their content into PCH.com sites.",
+                "Served as Scrum Master on various projects, setting sprint goals, managing sprint ceremonies, and scheduling code freeze and release dates to ensure timely delivery."
+            ]
+        },
+        {
+            "name": "COMPUTER ASSOCIATES",
+            "position": "Director: ARCserve Software Development",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "2006-09-01",
+            "endDate": "2013-05-30",
+            "summary": "Description…",
+            "highlights": []
+        },
+        {
+            "name": "COMPUTER ASSOCIATES",
+            "position": "Senior Manager: ARCserve Device Development",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "2005-05-31",
+            "endDate": "2006-09-01",
+            "summary": "Description…",
+            "highlights": []
+        },
+        {
+            "name": "COMPUTER ASSOCIATES",
+            "position": "Senior Software Engineer",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "2003-05-01",
+            "endDate": "2005-04-30",
+            "summary": "Description…",
+            "highlights": []
+        },
+        {
+            "name": "COMPUTER ASSOCIATES",
+            "position": "Software Engineer",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1999-12-01",
+            "endDate": "2003-05-31",
+            "summary": "Description…",
+            "highlights": []
+        },
+        {
+            "name": "COMPUTER ASSOCIATES",
+            "position": "Maintenance Software Engineer",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1999-05-01",
+            "endDate": "1999-12-31",
+            "summary": "Description…",
+            "highlights": []
+        },
+        {
+            "name": "COMPUTER ASSOCIATES",
+            "position": "Senior Technical Support Representative",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1997-04-01",
+            "endDate": "1999-04-30",
+            "summary": "Description…",
+            "highlights": []
+        },
+        {
+            "name": "COMPUTER ASSOCIATES",
+            "position": "Technical Support Representative",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1996-02-01",
+            "endDate": "1997-03-31",
+            "summary": "Description…",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "St. John's University",
+            "url": "https://www.stjohns.edu/",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "startDate": "1987-09-01",
+            "endDate": "1989-06-01"
+        },
+        {
+            "institution": "Iona College",
+            "url": "https://www.iona.edu/",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "startDate": "1989-09-01",
+            "endDate": "1991-06-01"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "Description...",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://project.com/"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Project Management",
+            "level": "Advanced",
+            "keywords": [
+                "Agile",
+                "Scrum",
+                "Kanban",
+                "Project Planning",
+                "Stakeholder Communication",
+                "Cross-Functional Leadership",
+                "Scope Management",
+                "Status Reporting"
+            ]
+        },
+        {
+            "name": "Technical Skills",
+            "level": "Advanced",
+            "keywords": [
+                "Web Development",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Javascipt Frameworks",
+                "SDLC",
+                "Integration Planning",
+                "Source Control",
+                "CI/CD",
+                "Build Tools",
+                "Testing Tools"
+            ]
+        },
+        {
+            "name": "Collaboration and Leadership",
+            "level": "Expert",
+            "keywords": [
+                "Cross-Team Communication",
+                "Mentorship",
+                "Vendor Management",
+                "Conflict Resolution",
+                "Problem Solving",
+                "Agile Team Collaboration"
+            ]
+        },
+        {
+            "name": "Tools and Platforms",
+            "level": "Proficient",
+            "keywords": [
+                "Version 1 / Digital Agility",
+                "Trello",
+                "Lucid Charts",
+                "Figma",
+                "Microsoft Teams",
+                "Google Analytics"
+            ]
+        }
+    ]
+}

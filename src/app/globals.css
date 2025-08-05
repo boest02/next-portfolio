@@ -1,41 +1,36 @@
-/* --- Light Theme (Default) --- */
+
+/* --- Light Theme: Warm & Inviting --- */
 :root {
-  /* Main Background & Surface Colors */
-  --background: linear-gradient(to bottom, #F0F4E8, #E2E8D2); /* A diffused light olive green gradient */
-  --foreground: #ffffff;        /* Pure white for card backgrounds or containers */
-  --nav-background: linear-gradient(to right, #ffffff, #f0f0f0);    /* A clean white to subtle light gray gradient for the nav bar */
-
-  /* Text Colors */
-  --text-primary: #1a1a1a;      /* Deep charcoal for primary text, providing high contrast */
-  --text-secondary: #6b7280;    /* A subtle gray for secondary text, like descriptions or metadata */
-
-  /* Accent & Interactive Colors */
-  --accent-primary: #22c55e;      /* A professional green for a fresh accent */
-  --accent-primary-hover: #16a34a;/* A slightly darker green for hover states */
-
-  /* Borders & Dividers */
-  --border: #e5e7eb;            /* A light gray for subtle borders and lines */
+  --background: linear-gradient(to bottom, #F9F7F3, #E8E5DF); /* Soft cream gradient */
+  --foreground: #ffffff;
+  --nav-background: linear-gradient(to right, #ffffff, #fcfcfc);
+  --text-primary: #332d2a;
+  --text-secondary: #7a7572;
+  --accent-primary: #e67e22;      /* A warm, inviting orange */
+  --accent-primary-hover: #d35400;
+  --accent-secondary: #61a7a7;    /* A muted blue-green for a secondary accent */
+  --accent-secondary-hover: #528e8e; /* Slightly darker for hover state */
+  --border: #b1a99f;            /* Muted brown for contrast */
 }
 
-/* --- Dark Theme --- */
+/* --- Dark Theme: Warm & Inviting --- */
 @media (prefers-color-scheme: dark) {
   :root {
-    /* Main Background & Surface Colors */
-    --background: linear-gradient(to bottom, #0a1c12, #102b1c); /* A deep forest green gradient for the page background */
-    --foreground: #1e2521;      /* A slightly lighter, desaturated dark color for card backgrounds */
-    --nav-background: linear-gradient(to right, #2b2b2b, #383838);  /* A dark gray to a slightly lighter gray gradient for the nav bar */
-
-    /* Text Colors */
-    --text-primary: #e5e7eb;    /* A light gray for primary text */
-    --text-secondary: #9ca3af;  /* A subtle, lighter gray for secondary text */
-
-    /* Accent & Interactive Colors */
-    --accent-primary: #4ade80;      /* A light green that stands out on a dark background */
-    --accent-primary-hover: #22c55e;/* A darker green for hover states */
-
-    /* Borders & Dividers */
-    --border: #4b5563;          /* A dark gray for subtle borders and lines */
+    --background: linear-gradient(to bottom, #2a2420, #1e1915); /* Deep charcoal gradient */
+    --foreground: #2e2925;      /* Dark, slightly desaturated charcoal for card backgrounds */
+    --nav-background: linear-gradient(to right, #2c2723, #38312d);
+    --text-primary: #e9e7e3;    /* Light, warm off-white for primary text */
+    --text-secondary: #b8b3b0;  /* A subtle, lighter gray for secondary text */
+    --accent-primary: #e67e22;      /* Keep the warm, inviting orange */
+    --accent-primary-hover: #d35400;
+    --accent-secondary: #7cc4c4;    /* A brighter blue-green for a secondary accent */
+    --accent-secondary-hover: #61a7a7; /* Slightly darker for hover state */
+    --border: #8b837d;          /* A lighter, muted brown for borders */
   }
+}
+
+:root {
+  font-size: 16px;
 }
 
 

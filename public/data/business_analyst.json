@@ -1,0 +1,293 @@
+{
+    "basics": {
+        "name": "Stephen L Boettcher",
+        "label": "Technical Project Manager / Senior Business Analyst",
+        "image": "/src/images/Me.JPG",
+        "email": "boest02@gmail.com",
+        "phone": "516-220-4640",
+        "portfolio_url": "sboettcher.com",
+        "linkedin_url": "linkedin.com/in/stephenboettcher",
+        "github_url": "github.com/boest02",
+        "res_summary": "Technical Project Manager and Senior Business Analyst with over 10 years of experience leading agile teams, delivering software solutions, and translating business goals into clear, actionable requirements. Proven track record driving measurable results, including a 15% boost in user retention and a 20% increase in organic traffic. Skilled in product strategy, stakeholder alignment, data modeling, and iterative delivery, with a strong foundation in programming principles and cross-functional collaboration.",
+        "home_summary": [],
+        "summary": "",
+        "location": {
+            "city": "Floral Park",
+            "countryCode": "US",
+            "region": "New York",
+            "postalCode": "11001"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "boest02",
+                "url": "https://www.linkedin.com/in/stephen-boettcher-77051b7/",
+                "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7PAYCRc3WD7kGgYDf1ZyIBHCIPLOD4v1wpg&s"
+            },
+            {
+                "network": "GitHub",
+                "username": "boest02",
+                "url": "https://github.com/boest02",
+                "icon": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
+            },
+            {
+                "network": "GitLab",
+                "username": "@boest02",
+                "url": "https://gitlab.com/boest02",
+                "icon": "https://gitlab.com/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png"
+            },
+            {
+                "network": "CodePen",
+                "username": "boest02",
+                "url": "https://codepen.io/boest02",
+                "icon": "https://cdn.iconscout.com/icon/free/png-256/free-codepen-icon-download-in-svg-png-gif-file-formats--behance-logo-delicious-social-media-technology-development-pack-user-interface-icons-6700108.png?f=webp&w=256"
+            },
+            {
+                "network": "JSFiddle",
+                "username": "boest02",
+                "url": "https://jsfiddle.net/u/boest02/fiddles/",
+                "icon": "https://pbs.twimg.com/profile_images/1832018871382872064/wxvfa5pU_400x400.jpg"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Publishers Clearing House",
+            "position": "Lead Front-End Developer",
+            "url": "https://info.pch.com/",
+            "startDate": "2019-08-01",
+            "endDate": "2025-04-24",
+            "summary": "Description…",
+            "highlights": [
+                "Collaborated extensively with Product teams to analyze complex business requirements, translating them into user-focused website features that increased organic traffic by 20%.",
+                "Directed frontend planning and technical refinement sessions, ensuring proposed solutions were strategically aligned with core business objectives and design standards.",
+                "Orchestrated collaborative validation efforts with QA and key stakeholders, leveraging acceptance testing and iterative feedback loops to ensure features met critical business needs."
+            ]
+        },
+        {
+            "name": "Publishers Clearing House",
+            "position": "Front-End Developer",
+            "url": "https://info.pch.com/",
+            "startDate": "2018-08-01",
+            "endDate": "2019-07-30",
+            "summary": "Description…",
+            "highlights": [
+                "Led the end-to-end development and implementation of a customizable communication module, empowering business teams to deliver personalized user messages and enhancing engagement and communication efficiency.",
+                "Drove cross-functional design and implementation of innovative features, ensuring technical solutions directly aligned with key business objectives to enhance user engagement in a dynamic gaming environment.",
+                "Designed and deployed a reusable communication module that facilitated targeted messaging and promotions, directly contributing to improved conversion rates.",
+                "Collaborated with marketing analysts to develop and integrate robust tracking for campaign metrics, providing critical data insights that informed future A/B testing strategies."
+            ]
+        },
+        {
+            "name": "Publishers Clearing House",
+            "position": "Business Analyst / Scrum Master",
+            "url": "https://info.pch.com/",
+            "startDate": "2013-11-01",
+            "endDate": "2018-07-30",
+            "summary": "Description…",
+            "highlights": [
+                "Spearheaded discovery and documentation for a cross-departmental Contest Tracking System, significantly improving operational workflows for prize fulfillment and compliance.",
+                "Served as Scrum Master for 4 Agile teams, expertly managing all Scrum ceremonies, defining clear sprint goals, tracking velocity, and facilitating stakeholder demos to ensure predictable delivery.",
+                "Leveraged data analysis to identify key engagement drop-offs, directly influencing new campaign features that increased retention by 15%.",
+                "Orchestrated integration projects with legacy systems and third-party platforms, streamlining communications and enhancing data integrity across critical systems.",
+                "Collaborated cross-functionally with marketing, legal, and engineering teams to prioritize and deliver complex projects under tight deadlines."
+            ]
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Director: ARCserve Software Development",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "2006-09-01",
+            "endDate": "2013-05-30",
+            "summary": "...",
+            "highlights": [
+                "Led and managed diverse software development projects within the ARCserve division, overseeing critical phases from design to deployment.",
+                "Championed and implemented a 'code peer review' process that was adopted across the broader development organization, resulting in significant improvements in code quality and consistency.",
+                "Mentored and guided technical teams through complex design and implementation phases, fostering best practices and accelerating defect resolution to enhance overall team performance.",
+                "Drove cross-functional communication by facilitating 12 training sessions for support and sales teams on ARCserve product updates, resolving the top three customer concerns and enhancing field enablement."
+            ],
+            "resume": true
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Senior Manager: ARCserve Device Development",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "2005-05-31",
+            "endDate": "2006-09-01",
+            "summary": "...",
+            "highlights": [
+                "Managed a globally distributed team of six developers (home office, Beijing, Hyderabad), optimizing collaboration and productivity across international time zones.",
+                "Cultivated solutions tightly aligned with user requirements and emerging technologies, meticulously documenting technical solutions through comprehensive design documents and workflow diagrams to streamline development.",
+                "Streamlined the development process from conception to a successful 6-month implementation cycle, enhancing efficiency and reducing time-to-market."
+            ],
+            "resume": true
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Senior Software Engineer",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "2003-05-01",
+            "endDate": "2005-04-30",
+            "summary": "As a Senior Software Engineer, I developed C-based applications for Windows architecture, focusing on data movement to tape devices. I designed and implemented SCSI communication protocols to control tape drives and tape library devices across a SAN, ensuring seamless integration and reliable data transfer. This role required hands-on setup and configuration of storage hardware, working directly with tape devices to optimize performance, troubleshoot low-level interactions, and enhance system stability for enterprise backup and storage solutions.",
+            "highlights": [
+                "Engineered high-performance software solutions using Win32 C programming in Visual Studio 6.0, resulting in the identification and resolution of the three largest causes of application crashes for enhanced system stability."
+            ],
+            "resume": true
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Software Engineer",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1999-12-01",
+            "endDate": "2003-05-01",
+            "summary": "As a Software Engineer, I developed core features for ARCserve based on management’s specifications, focusing on data movement and device integration. I implemented solutions in C for Windows architecture, writing SCSI code to control tape drives and libraries. I also helped plan and scope development tasks according to our waterfall schedule, ensuring timely delivery and alignment with project goals.",
+            "highlights": [
+                "Develop new features for ARCserve device support, including automated SAN device sharing, tape drive encryption, and cluster failover handling.",
+                "Maintain and manage the SAN lab for development and testing.",
+                "Support the device certification team by configuring new hardware and ensuring compatibility with existing software.",
+                "Implement fixes and improvements to support new devices within the ARCserve ecosystem."
+            ],
+            "resume": false
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Maintenance Software Engineer",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1999-05-01",
+            "endDate": "1999-12-01",
+            "summary": "As a Maintenance Software Engineer, I provided technical support for ARCserve, assisting customers with software and hardware issues. I worked closely with the development team to diagnose problems, release patches, and ensure fixes were integrated into the production codebase. My role bridged the gap between support and development, helping to improve system stability and enhance the customer experience.",
+            "highlights": [
+                "Assist support engineers with escalated issues that require deep investigation or code changes.",
+                "Work directly with customers to troubleshoot complex technical issues.",
+                "Develop and publish fixes to the company website for broader end-user access.",
+                "Ensure that resolved issues are documented to help prevent future occurrences."
+            ],
+            "resume": false
+        },
+        {
+            "name": "Computer Associates",
+            "position": "Senior Technical Support Representative",
+            "url": "https://en.wikipedia.org/wiki/CA_Technologies",
+            "startDate": "1997-04-01",
+            "endDate": "1999-05-01",
+            "summary": "As a Senior Technical Support Representative, I worked directly with customers online to diagnose and resolve technical issues. I developed a library of detailed technical responses to streamline support and assist users based on the information they provided. My role focused on troubleshooting, guiding customers through solutions, and improving overall support efficiency.",
+            "highlights": [
+                "Provided technical product support online via AOL and CompuServe.",
+                "Mentored support representatives by offering guidance and assistance.",
+                "Updated and maintained an internal solutions database for team reference.",
+                "Ensured support resources were accurate and up to date to improve issue resolution efficiency."
+            ],
+            "resume": false
+        },
+        {
+            "name": "Computer Associates / Cheyenne Software",
+            "position": "Technical Support Representative",
+            "url": "https://en.wikipedia.org/wiki/Arcserve",
+            "startDate": "1996-02-01",
+            "endDate": "1997-04-01",
+            "summary": "As a Technical Support Representative, I provided phone-based support to customers, assisting them with troubleshooting and resolving technical issues. I guided users through solutions, ensuring a positive experience and high customer satisfaction. When needed, I escalated more complex issues to our Level 2 maintenance group, ensuring timely resolution and seamless support.",
+            "highlights": [
+                "Offered product technical support, over the phone, for ARCserve products covering: Windows NT and Novell Netware customers."
+            ],
+            "resume": false
+        }
+    ],
+    "education": [
+        {
+            "institution": "Iona College",
+            "url": "https://www.iona.edu/",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "location": "New Rochelle, NY",
+            "startDate": "1989-09-01",
+            "endDate": "1991-06-01"
+        },
+        {
+            "institution": "St. John's University",
+            "url": "https://www.stjohns.edu/",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "location": "New York, NY",
+            "startDate": "1987-09-01",
+            "endDate": "1989-06-01"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "Description...",
+            "highlights": [
+                "Won award at AIHacks 2016"
+            ],
+            "url": "https://project.com/"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Core Competencies",
+            "level": "Advanced",
+            "keywords": [
+                "Agile Delivery",
+                "Cross-Functional Collaboration",
+                "Product Strategy",
+                "Data Modeling",
+                "Workflow Optimization",
+                "Technical Communication"
+            ]
+        },
+        {
+            "name": "Project Management",
+            "level": "Advanced",
+            "keywords": [
+                "Agile & Scrum Practices",
+                "Backlog Management",
+                "Release Planning",
+                "Stakeholder Management",
+                "Metrics & Reporting",
+                "Continuous Improvement"
+            ]
+        },
+        {
+            "name": "Business Analysis",
+            "level": "Proficient",
+            "keywords": [
+                "User Stories & Acceptance Criteria",
+                "Functional Specifications",
+                "Process Improvement",
+                "UAT & QA Collaboration",
+                "Data Analysis"
+            ]
+        },
+        {
+            "name": "Documentation & Communication",
+            "level": "Proficient",
+            "keywords": [
+                "Wireframes & Diagrams",
+                "Technical Writing",
+                "Executive Communication"
+            ]
+        },
+        {
+            "name": "Technical Foundation",
+            "level": "Proficient",
+            "keywords": [
+                "Programming Concepts",
+                "Data Modeling",
+                "Microservices Architecture",
+                "Version Control"
+            ]
+        },
+        {
+            "name": "Tools & Platforms",
+            "level": "Expert",
+            "keywords": [
+                "Jira & Confluence",
+                "Google Analytics",
+                "Figma & Lucidchart",
+                "MS Office Suite"
+            ]
+        }
+    ]
+}
